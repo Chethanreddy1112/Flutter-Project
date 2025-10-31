@@ -1,0 +1,2 @@
+Project Title:
+Mobile App For Grocery Pvt. Ltd. — A Flutter-based mobile application designed to provide users with a convenient platform to browse groceries, add items to cart, and get them delivered to their homes. The app integrates Firebase for authentication, data management, and notifications, ensuring a seamless shopping experience with modules such as Login, Home, Categories, Cart, Orders, and Profile.
